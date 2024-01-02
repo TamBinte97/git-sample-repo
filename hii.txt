@@ -1,0 +1,4 @@
+Hi, I am Mehtab.I read through the task details carefully and i am sure that i can do the task very well. I will complete the project on time & within your budget. Thank You!
+
+
+mvn archetype:generate -DgroupId=com.expedia.cli -DartifactId=carsbookingcli -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
