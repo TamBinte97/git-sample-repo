@@ -5,3 +5,6 @@ mvn archetype:generate -DgroupId=com.expedia.cli -DartifactId=carsbookingcli -Da
 
 
 hiiiiiiiiiiiiiiiiii
+
+
+hello
